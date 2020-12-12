@@ -1,0 +1,81 @@
+<!dostype html>
+<html>
+<head>
+     <title>Text</title>
+  <style>
+   ul {
+    list-style-image: url("C:\Users\Lenovo\Desktop\checkmark.png");
+   }
+  </style>
+</head>
+<body>
+<div>
+     <h1><font size="8" face="CHICAGO">Resume</font></h1>
+     <p><img src="C:\Users\Lenovo\Desktop\newsimg84151.jpg"></p>
+     <h2><font size="6" face="CHICAGO">Chornovil Ivan Andreevich</font></h2>
+</div>
+<div>
+<table border="0">
+<tr> 
+     <td>Desired position</td>
+     <td>Consultant</td>
+</tr>
+     <h3>Brief information</h3>
+<tr> 
+     <td>Cellphone</td>
+     <td>+380997487233</td>
+</tr>
+<tr>
+     <td>El. mail</td>
+     <td>Testnext@gmail.com</td>
+</tr>
+<tr> 
+     <td>Age</td>
+     <td>19</td>
+</tr>
+<tr> 
+     <td>Residence</td>
+     <td>Cherkasy region Smila, Zvenigorodska Street, house 3</td>
+</tr>
+<tr> 
+     <td>Desirable salary</td>
+     <td>1300 dollars</td>
+</tr>
+<tr> 
+     <td>Citizenship</td>
+     <td>Ukrainian</td>
+</tr>
+<tr> 
+     <td>Languages</td>
+     <td>Ukrainian, Russian</td>
+</tr>
+<tr> 
+     <td>Education</td>
+     <td>Average</td>
+</tr>
+<tr> 
+     <td>Work experience</td>
+     <td>Do not have</td>
+</td>
+</tr>
+</table>
+</div>
+<div>
+<ul id="menu1">
+            <li><details><summary>What can I do</summary>
+            <ul>
+                <li>Sing</li>
+                <li>Agitate</li>
+                <li>Present the product</li>
+            </ul></details>
+            </li>
+            <li><details><summary>What I can't do</summary>
+            <ul>
+                <li>Encode</li>
+                <li>Repair printers and PCs</li>
+            </ul></details>
+            </li>
+</ul>
+</div>
+</body>
+</html>
